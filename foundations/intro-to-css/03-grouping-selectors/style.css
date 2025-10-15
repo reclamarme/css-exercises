@@ -1,3 +1,9 @@
+#first-button,
+#second-button {
+    font-size:28px;
+    font-family:"Helvetica","Times New Roman",sans-serif; 
+}
+
 #first-button {
     background-color:#000000;
     color:#ffffff;
