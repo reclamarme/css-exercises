@@ -51,9 +51,12 @@ a {
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
+  margin-inline: 6px;
 }
 
 ul {
   list-style-type: none;
   display: flex;
+  margin-block: 0px;
+  padding-inline-start: 10px;
 }
