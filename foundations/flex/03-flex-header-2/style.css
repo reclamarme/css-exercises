@@ -39,6 +39,7 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+  margin-inline-start: 8px;
 }
 
 button {
