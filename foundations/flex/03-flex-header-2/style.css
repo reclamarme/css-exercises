@@ -24,6 +24,7 @@ body {
 .right-items {
   display: flex;
   align-items: center;
+  margin-inline-end: 8px;
 }
 
 .profile-image {
@@ -48,6 +49,7 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
+  margin-inline-end: 8px;
 }
 
 a {
