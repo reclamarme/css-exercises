@@ -80,3 +80,7 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+.text {
+  margin-block-end: 16px;
+}
