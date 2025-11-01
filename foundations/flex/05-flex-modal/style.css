@@ -25,6 +25,15 @@ body {
   padding: 18px;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-block-end: 6px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
