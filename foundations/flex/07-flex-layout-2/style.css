@@ -7,12 +7,19 @@ body {
 }
 
 .header {
+  flex:1 1 auto;
+  font-size: 32px;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
   height: 72px;
   background: darkmagenta;
   color: white;
+  padding-inline: 12px;
 }
 
 .content {
+  flex:1 1 auto;
   display: flex;
 }
 
@@ -42,6 +49,10 @@ a {
 }
 
 .footer {
+  flex: 1 1 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: 72px;
   background: #eee;
   color: darkmagenta;
