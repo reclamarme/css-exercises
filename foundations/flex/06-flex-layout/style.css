@@ -55,11 +55,18 @@ a {
   align-items: center;
 }
 
-.header .left-links,
-.header .right-links {
+.footer {
+  background-color: #b9b5b530;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left-links,
+.right-links {
   display: flex;
   justify-content: center;
-  gap: 18px;
+  gap: 13px;
   padding-inline: 16px;
 }
 
